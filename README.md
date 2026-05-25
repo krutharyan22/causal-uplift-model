@@ -122,13 +122,13 @@ python src/streaming/consumer.py
 Received customer:
 {
   "recency": 1,
-  "history": 2400,
+  "history": 2500,
   "mens": 1,
   "womens": 0,
   "newbie": 1
 }
 
-Predicted uplift: 3.82
+Predicted uplift: 3.89
 Decision: SEND_COUPON
 ```
 
