@@ -158,3 +158,4 @@ This enables:
 - Automated retraining pipelines
 
 ![Architecture](assets/architecture.png)
+![demo](assets/causal-uplift-model-demo.mp4)
