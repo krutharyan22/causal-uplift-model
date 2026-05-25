@@ -2,13 +2,7 @@ pandas
 numpy
 scikit-learn
 econml
-lightgbm
-xgboost
-matplotlib
-seaborn
-joblib
-jupyter
-ipykernel
 fastapi
 uvicorn
-confluent-kafka
+joblib
+kafka-python
